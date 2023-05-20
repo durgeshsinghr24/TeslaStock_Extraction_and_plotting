@@ -9,7 +9,8 @@ Pandas: For data manipulation and analysis.
 Plotly: For interactive and visually appealing data visualization.
 Requests: For making HTTP requests to retrieve web page content.
 
-##Notebook Overview
+#Notebook Overview
+
 Data Extraction: The web page URL is provided, and the BeautifulSoup and Requests libraries are used to scrape the HTML content of the page. Relevant data such as date, stock price, and revenue are extracted and stored in a Pandas DataFrame.
 
 Data Cleaning and Preparation: The extracted data is cleaned and prepared for analysis. This includes converting data types, handling missing values, and organizing the DataFrame.
